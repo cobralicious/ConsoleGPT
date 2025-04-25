@@ -47,8 +47,5 @@
 - Built with 💪 discipline and ☕ caffeine.
 
 ```bash
-git clone https://github.com/your-username/ConsoleGPT.git
-cd ConsoleGPT
-mvn clean install 
 
 
